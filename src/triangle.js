@@ -13,5 +13,5 @@ Triangle.prototype.checkType = function() {
     return "equilateral triangle";
   } else {
     return "isosceles triangle";
-}
+  }
 };
